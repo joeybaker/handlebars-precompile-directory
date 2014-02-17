@@ -3,7 +3,6 @@
 
 var chai = require('chai')
   , should = chai.should()
-  , findit = require('findit')
   , Handlebars = require('handlebars')
   , path = require('path')
   , getTemplates = require('../')
