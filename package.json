@@ -4,7 +4,7 @@
   "description": "Precompile a directory of handlebars templates",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/bin/mocha test"
+    "test": "./node_modules/mocha/bin/mocha test"
   },
   "repository": {
     "type": "git",
