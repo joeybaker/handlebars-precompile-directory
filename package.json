@@ -1,6 +1,6 @@
 {
   "name": "handlebars-precompile-directory",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Precompile a directory of handlebars templates",
   "main": "index.js",
   "scripts": {
