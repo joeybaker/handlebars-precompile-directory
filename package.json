@@ -28,6 +28,12 @@
   },
   "devDependencies": {
     "chai": "~1.9.0",
-    "mocha": "~1.17.1"
+    "mocha": "~1.17.1",
+    "grunt-shell": "~0.6.4",
+    "grunt-bumpx": "~0.2.0",
+    "matchdep": "~0.3.0",
+    "grunt-jscs-checker": "~0.3.2",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt": "~0.4.2"
   }
 }
