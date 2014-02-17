@@ -1,0 +1,35 @@
+{
+  "name": "handlebars-precompile-directory",
+  "version": "0.0.0",
+  "description": "Precompile a directory of handlebars templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joeybaker/handlebars-precompile-directory.git"
+  },
+  "keywords": [
+    "handlebars",
+    "templates",
+    "directory",
+    "pre-compile"
+  ],
+  "author": "Joey Baker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joeybaker/handlebars-precompile-directory/issues"
+  },
+  "homepage": "https://github.com/joeybaker/handlebars-precompile-directory",
+  "dependencies": {
+    "findit": "~1.1.0",
+    "handlebars": "~2.0.0-alpha.1"
+  },
+  "devDependencies": {
+    "sinon-chai": "~2.5.0",
+    "chai": "~1.9.0",
+    "sinon": "~1.8.2",
+    "mocha": "~1.17.1"
+  }
+}
