@@ -1,6 +1,8 @@
 handlebars-precompile-directory
 ===============================
 
+[![NPM](https://nodei.co/npm/handlebars-precompile-directory.png)](https://nodei.co/npm/handlebars-precompile-directory/)
+
 Precompile a directory of handlebars templates.
 
 ## Usage
