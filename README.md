@@ -26,6 +26,8 @@ var getTemplates = require('handlebars-precompile-directory')
 #### `templates`
 The full path to the template directory.
 
+**NOTE**: file names that begin with a `_` will be treated as partials.
+
 #### `ext`
 The extension to look for. Defaults to `hbs`.
 
